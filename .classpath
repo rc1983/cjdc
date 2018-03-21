@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="CharAndBoolean/src"/>
+	<classpathentry kind="src" path="FloatAndDouble/src"/>
+	<classpathentry kind="src" path="ForLoop/src"/>
+	<classpathentry kind="src" path="HelloWorld/src"/>
+	<classpathentry kind="src" path="IfKeywordAndCodeBlocks/src"/>
+	<classpathentry kind="src" path="KeywordsAndExpressions/src"/>
+	<classpathentry kind="src" path="Operators/src"/>
+	<classpathentry kind="src" path="Strings/src"/>
+	<classpathentry kind="src" path="WhiteSpaceAndIndenting/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="CharAndBoolean/bin"/>
+</classpath>
