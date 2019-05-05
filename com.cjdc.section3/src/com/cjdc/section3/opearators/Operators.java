@@ -1,3 +1,4 @@
+package com.cjdc.section3.opearators;
 
 public class Operators
 {
@@ -81,9 +82,5 @@ public class Operators
 		{
 			System.out.println("Over the limit");
 		}
-		
-		
-		
 	}
-
 }
