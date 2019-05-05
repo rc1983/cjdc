@@ -88,5 +88,21 @@ public class Operators
 		
 		c = (a % b == 0) ? b : a;
 		System.out.println(c);
+		
+		double value = 20d;
+		double value2 = 80;
+		double value3 = value + value2 * 25;
+		
+		double remainder = value3 % 40;
+		
+		
+		if (remainder < 20)
+		{
+			System.out.println("Over the limit");
+		}
+		else
+		{
+			System.out.println(remainder);
+		}
 	}
 }
