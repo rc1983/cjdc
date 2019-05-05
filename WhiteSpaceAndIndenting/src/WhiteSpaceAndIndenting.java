@@ -12,8 +12,6 @@ public class WhiteSpaceAndIndenting
 		myVariable++;
 		myVariable--;
 		
-		
-
+		System.out.println(myVariable);
 	}
-
 }
