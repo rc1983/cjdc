@@ -82,5 +82,11 @@ public class Operators
 		{
 			System.out.println("Over the limit");
 		}
+		
+		a = 9;
+		b = 4;
+		
+		c = (a % b == 0) ? b : a;
+		System.out.println(c);
 	}
 }
